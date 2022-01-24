@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 Site réalisé avec Wordpress pour améliorer mon niveau de maîtrise de cet outil.
 
